@@ -1,0 +1,29 @@
+h2{font-family: energetic script limited,regular;
+font-size: 42px;}
+
+h4{font-family: energetic script limited,regular;
+	font-size: 22px;
+}
+
+h5{font-family: energetic script limited,regular;
+	font-size: 22px;
+}
+
+p{font-family: josefin sans, courant}
+.equipe{text-align: center;
+	text-decoration: underline #ffaf00;
+}
+
+li{font-family: josefin sans, courant}
+
+button{font-family: energetic script limited,regular;
+	font-size: 22px;
+}
+.column{
+	display: flex;
+
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+
+
